@@ -1,0 +1,6 @@
+{
+	"gzip": true,
+	"listen_port": "4090",
+	"listen_port_proxy": "8888"
+}
+
